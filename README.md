@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hello there 👋
+
+I'm Sabrina, an Aspiring Embedded Systems Engineer, currently a Biomedical System Designer and I love everything robotics 🤖!
+
+Facts about me:
+* 🌟 I'm a goal driven individual. When I put my heart to it, I will find ways to achieve it.
+* 🌱 I have a growth mindset! I always spent some time to learn something new everyday.
+* 👀 I'm a natural problem solver! If I see any issue, I will take initiative to fix it.
+
+I'm currently learning Real-Time Systems with the Native POSIX Thread Library!
+
+Connect with me on LinkedIn!
+
+
 [![Sabrina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrinalokman)](https://github.com/sabrinalokman/github-readme-stats)
 
 <!--
