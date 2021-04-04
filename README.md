@@ -9,7 +9,7 @@ Facts about me:
 
 I'm currently learning Real-Time Systems with the Native POSIX Thread Library!
 
-Connect with me on [LinkedIn](https://www.linkedin.com/sabrinalokman) !
+Connect with me on [LinkedIn](https://www.linkedin.com/in/sabrinalokman) !
 
 <!--
 [![Sabrina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrinalokman&count_private=true)](https://github.com/sabrinalokman/github-readme-stats)
