@@ -9,14 +9,14 @@ Facts about me:
 
 I'm currently learning Real-Time Systems with the Native POSIX Thread Library!
 
-Connect with me on LinkedIn!
+Connect with me on [LinkedIn](https://www.linkedin.com/sabrinalokman) !
 
-
+<!--
 [![Sabrina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrinalokman&count_private=true)](https://github.com/sabrinalokman/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinalokman&layout=compact)](https://github.com/sabrinalokman/github-readme-stats)
 
-<!--
+
 **sabrinalokman/sabrinalokman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
