@@ -12,7 +12,9 @@ I'm currently learning Real-Time Systems with the Native POSIX Thread Library!
 Connect with me on LinkedIn!
 
 
-[![Sabrina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrinalokman)](https://github.com/sabrinalokman/github-readme-stats)
+[![Sabrina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrinalokman&count_private=true)](https://github.com/sabrinalokman/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinalokman&layout=compact)](https://github.com/sabrinalokman/github-readme-stats)
 
 <!--
 **sabrinalokman/sabrinalokman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
