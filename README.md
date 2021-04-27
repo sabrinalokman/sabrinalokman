@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Sabrina, an Aspiring Embedded Systems Engineer, currently a Biomedical System Designer and I love everything robotics 🤖!
+I'm Sabrina, an Aspiring Embedded Systems Engineer, currently a Robotics Engineer and I love everything robotics 🤖!
 
 Facts about me:
 * 🌟 I'm a goal driven individual. When I put my heart to it, I will find ways to achieve it.
