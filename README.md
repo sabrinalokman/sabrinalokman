@@ -7,7 +7,7 @@ Facts about me:
 * 🌱 I have a growth mindset! I always spent some time to learn something new everyday.
 * 👀 I'm a natural problem solver! If I see any issue, I will take initiative to fix it.
 
-I'm currently learning Real-Time Systems with the Native POSIX Thread Library!
+I'm currently learning Modbus TCP/IP Protocol!
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/sabrinalokman) !
 
